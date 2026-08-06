@@ -1,1 +1,1 @@
-# py_practices
+Solutions to https://www.practicepython.org/ problems. 
